@@ -1,5 +1,5 @@
 import "../styles/Spinner.css";
-
+// https://tobiasahlin.com/spinkit/
 export const Spinner = () => {
   return (
     <div className="sk-cube-grid">
